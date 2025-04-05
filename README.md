@@ -1,2 +1,2 @@
 # graffik-data
-My personal repository of data analytic work and graphic design. I am an aspiring data scientist in the making.
+My personal repository of work. I have both graphic design and data analysis skills. I am an aspiring data scientist in the making.
